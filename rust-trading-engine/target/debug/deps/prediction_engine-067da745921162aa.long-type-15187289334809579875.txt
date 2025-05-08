@@ -1,0 +1,2 @@
+(uuid::Uuid, diesel::sql_types::Numeric, diesel::sql_types::Numeric, diesel::sql_types::Timestamptz): TypedExpressionType
+(user_balances::columns::user_id, user_balances::columns::available_balance, user_balances::columns::reserved_balance, user_balances::columns::updated_at)

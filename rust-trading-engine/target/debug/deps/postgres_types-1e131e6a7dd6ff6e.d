@@ -1,0 +1,9 @@
+/Users/dishankchauhan/jinzo/rust-trading-engine/target/debug/deps/libpostgres_types-1e131e6a7dd6ff6e.rmeta: /Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/lib.rs /Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/pg_lsn.rs /Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/private.rs /Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/special.rs /Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/type_gen.rs
+
+/Users/dishankchauhan/jinzo/rust-trading-engine/target/debug/deps/postgres_types-1e131e6a7dd6ff6e.d: /Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/lib.rs /Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/pg_lsn.rs /Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/private.rs /Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/special.rs /Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/type_gen.rs
+
+/Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/lib.rs:
+/Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/pg_lsn.rs:
+/Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/private.rs:
+/Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/special.rs:
+/Users/dishankchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/postgres-types-0.2.9/src/type_gen.rs:

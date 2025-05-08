@@ -1,0 +1,2 @@
+(uuid::Uuid, uuid::Uuid, diesel::sql_types::Numeric, diesel::sql_types::Integer, diesel::sql_types::Nullable<diesel::sql_types::Text>, diesel::sql_types::Text, diesel::sql_types::Timestamptz): TypedExpressionType
+(balance_transactions::columns::id, balance_transactions::columns::user_id, balance_transactions::columns::amount, balance_transactions::columns::transaction_type, balance_transactions::columns::reference_id, balance_transactions::columns::description, balance_transactions::columns::created_at)

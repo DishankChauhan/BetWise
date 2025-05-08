@@ -1,0 +1,1 @@
+diesel::expression::operators::Eq<orders::columns::user_id, &std::string::String>
